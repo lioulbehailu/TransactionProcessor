@@ -1,0 +1,16 @@
+{
+  "name": "checktrasaction",
+  "version": "1.0.0",
+  "description": "cmd app to review recorded crypto transactions",
+  "main": "index.js",
+  "type": "module",
+  "author": "Lioul Behailu",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^1.2.0",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "yargs": "^17.6.2"
+  }
+}
